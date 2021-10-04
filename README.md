@@ -37,3 +37,22 @@ the format isn't followed.<p></p></li>
 - [Github](https://github.com/Anishukla)
 - [Linkedin](https://www.linkedin.com/in/shuklanish)
 - [Twitter](https://twitter.com/ShuklAnish_)
+
+# As a contributor:
+
+1) Navigate to hacktoberfest-contribute repo
+2) Go to ISSUES tab
+3) Look through the ISSUES and find the most suitable one
+4) You will find FORK tab on top beside UNWATCH and STAR (this will help you in cloning the repo to your own profile)
+5) Add a new file to make the changes or edit the existing files
+6) You will find a COMMIT button below, put a suitable message about the change and COMMIT
+7) Come back to hacktoberfest-contribute repo (from where you initially forked)
+8) Go to PULL REQUESTS tab
+9) Click on New Pull Request
+10) Give a necessary title and properly formatted description
+11) Complete the Pull Request
+12) Now patiently wait for this PR to get merged
+13) Keep checking if the owner of the repo has suggested you to make some changed so that it can be merged
+14) Remember, if the PR i not merged, your submission will not be counted
+15) Navigate to the official Hacktoberfest BY digital ocean website and check your contributions after almost an hour to see that it has been sent for review
+
